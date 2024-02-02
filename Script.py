@@ -1,8 +1,6 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},💥
-
-
-I am Stuff provider bot
+I am Stuff provider bot
 For Desi stuff send - Desi 
 For Foreign stuff send - Foreign
 
