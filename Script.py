@@ -1,18 +1,20 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},💥
 
+
 I am Stuff provider bot
 For Desi stuff send - Desi 
-For Foreign stuff send - Foreign🤷‍♂️
+For Foreign stuff send - Foreign
 
+To access direct file or videos get access of premium for just 20rs
 
-𝙈𝘼𝙄𝙉𝙏𝘼𝙄𝙉𝙀𝘿  𝘽𝙔 :Telrampst/b>"""
+For premiums contact me @STUFF_ACCESS_BOT </b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ ᴍʏ ᴅᴇᴛᴀɪʟꜱ ]───⍟
- ‣ ᴍʏ ɴᴀᴍᴇ : Cinema Explorer Bot
+ ‣ ᴍʏ ɴᴀᴍᴇ : KCPD SARAKU
  ‣ ᴍʏ ʙᴇꜱᴛ ꜰʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/STUFF_ACCESS_BOT'>LORD</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
