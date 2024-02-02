@@ -1,8 +1,12 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},❤️‍🔥Mʏ Nᴀᴍe Is CinemaXplorers_Bot_Files ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And Advanced Online Watching and Fast Download BOT But No Theatre Prints Available in MY DB So Dont Search Theatre Prints 🤷‍♂️
+    START_TXT = """<b>Hᴇʟʟᴏ {},💥
+
+I am Stuff provider bot
+For Desi stuff send - Desi 
+For Foreign stuff send - Foreign🤷‍♂️
 
 
-𝙈𝘼𝙄𝙉𝙏𝘼𝙄𝙉𝙀𝘿  𝘽𝙔 : @TeluguZone0 🙃</b>"""
+𝙈𝘼𝙄𝙉𝙏𝘼𝙄𝙉𝙀𝘿  𝘽𝙔 : @RampStuff 🤤</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -249,7 +253,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b> Size ⚙️: {file_size}
 
-JOIN:[TeluguZone](https://t.me/TeluguZone0)</b>""" 
+JOIN:[RampStuff](https://t.me/rampstuff)</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
